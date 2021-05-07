@@ -1,2 +1,2 @@
-# Uspace
-Start up project
+# Shopping-Platform
+For CS 5356 Class.

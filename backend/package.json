@@ -1,0 +1,6 @@
+{
+  "name": "backend",
+  "devDependencies": {
+    "serverless-offline": "^6.9.0"
+  }
+}
